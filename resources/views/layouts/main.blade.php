@@ -8,6 +8,9 @@
     <title>Document</title>
 </head>
 <body>
+<form action="JavaScript" method="post" enctype="multipart/form-data">
+    
+</form>
 
 </body>
 </html>
